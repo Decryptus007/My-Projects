@@ -1,0 +1,28 @@
+{
+    "questions": [
+        {
+            "question": "What does 'www' stand for in a website browser?",
+            "option1" : "Woss woss wobi",
+            "option2" : "World wide web",
+            "option3" : "Wex wault wall",
+            "option4" : "World wide well",
+            "check": 2
+        },
+        {
+            "question": "How long is an Olympic swimming pool (in meters)?",
+            "option1" : "50 meters",
+            "option2" : "75 meters",
+            "option3" : "43.6 meters",
+            "option4" : "100 meters",
+            "check": 1
+        },
+        {
+            "question": "What countries made up the original Axis powers in World War II?",
+            "option1" : "United Kingdom and Switzerland",
+            "option2" : "USA, Russia and Afghanistan",
+            "option3" : "Nigeria and Ghana",
+            "option4" : "Germany, Italy, and Japan",
+            "check": 4
+        }
+    ]
+}
