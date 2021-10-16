@@ -99,6 +99,66 @@
                 {"option" : "FemTech"}
             ],
             "check": 1
+        },
+        {
+            "question": "On the farm, what is a kid?",
+            "opt": [
+                {"option" : "A tractor"},
+                {"option" : "A cow"},
+                {"option" : "A baby goat"},
+                {"option" : "A hardworking child"}
+            ],
+            "check": 3
+        },
+        {
+            "question": "Stars and Stripes” is the nickname of the flag of which country?",
+            "opt": [
+                {"option" : "Switzerland"},
+                {"option" : "United States of America"},
+                {"option" : "Ecuador"},
+                {"option" : "United Africans Republic"}
+            ],
+            "check": 2
+        },
+        {
+            "question": "How many colors are there in the rainbow?",
+            "opt": [
+                {"option" : "Nine"},
+                {"option" : "Twelve"},
+                {"option" : "Six"},
+                {"option" : "Seven"}
+            ],
+            "check": 4
+        },
+        {
+            "question": "Who was the first president of the United States?",
+            "opt": [
+                {"option" : "George Washington"},
+                {"option" : "George Bush"},
+                {"option" : "Joe Biden"},
+                {"option" : "Barrack Obama"}
+            ],
+            "check": 1
+        },
+        {
+            "question": "What country is responsible for creating the Olympic Games?",
+            "opt": [
+                {"option" : "Babylon"},
+                {"option" : "Greece"},
+                {"option" : "Egypt"},
+                {"option" : "China"}
+            ],
+            "check": 2
+        },
+        {
+            "question": "Which country invented ice cream?",
+            "opt": [
+                {"option" : "Spain"},
+                {"option" : "Italy"},
+                {"option" : "China"},
+                {"option" : "Panama"}
+            ],
+            "check": 3
         }
     ]
 }
