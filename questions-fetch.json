@@ -49,6 +49,56 @@
                 {"option" : "Hexagon"}
             ],
             "check": 1
+        },
+        {
+            "question": "What is 'cynophobia'?",
+            "opt": [
+                {"option" : "Fear of Cyberworld"},
+                {"option" : "Fear of Dogs"},
+                {"option" : "Fear of Water"},
+                {"option" : "Fear of Telephone"}
+            ],
+            "check": 2
+        },
+        {
+            "question": "What punctuation mark ends an imperative sentence?",
+            "opt": [
+                {"option" : "A period or exclamation point"},
+                {"option" : "A comma"},
+                {"option" : "A semi-colon"},
+                {"option" : "A question mark or colon"}
+            ],
+            "check": 1
+        },
+        {
+            "question": "Who named the Pacific Ocean?",
+            "opt": [
+                {"option" : "Your grand-father"},
+                {"option" : "Donald Trump"},
+                {"option" : "Ferdinand Magellan"},
+                {"option" : "Pablo Escobar"}
+            ],
+            "check": 3
+        },
+        {
+            "question": "How many languages are written from right to left?",
+            "opt": [
+                {"option" : "3"},
+                {"option" : "24"},
+                {"option" : "6"},
+                {"option" : "12"}
+            ],
+            "check": 4
+        },
+        {
+            "question": "What is the name of the biggest technology company in South Korea?",
+            "opt": [
+                {"option" : "Samsung"},
+                {"option" : "Lee-Min-Ho"},
+                {"option" : "Rubber Tyre"},
+                {"option" : "FemTech"}
+            ],
+            "check": 1
         }
     ]
 }
