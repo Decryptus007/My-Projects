@@ -159,6 +159,46 @@
                 {"option" : "Panama"}
             ],
             "check": 3
+        },
+        {
+            "question": "Who discovered the source of the River Niger?",
+            "opt": [
+                {"option" : "Your village people"},
+                {"option" : "Mungo Park"},
+                {"option" : "Alafiatayo John"},
+                {"option" : "Lander Brothers"}
+            ],
+            "check": 4
+        },
+        {
+            "question": "Who is popularly referred to as 'Maradona' in Nigeria?",
+            "opt": [
+                {"option" : "Ibrahim Babangida"},
+                {"option" : "Sholagbade Malik"},
+                {"option" : "Sanni Abacha"},
+                {"option" : "Nnamdi Azikwe"}
+            ],
+            "check": 1
+        },
+        {
+            "question": "What is the capital of Kwara State?",
+            "opt": [
+                {"option" : "Ilorin"},
+                {"option" : "Jos"},
+                {"option" : "Yola"},
+                {"option" : "Sango-Ota"}
+            ],
+            "check": 1
+        },
+        {
+            "question": "What state is President Olusegun Obasanjo from?",
+            "opt": [
+                {"option" : "Lagos State"},
+                {"option" : "Ogun State"},
+                {"option" : "Kebbi State"},
+                {"option" : "Jigawa State"}
+            ],
+            "check": 2
         }
     ]
 }
