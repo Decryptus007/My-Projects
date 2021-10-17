@@ -199,6 +199,16 @@
                 {"option" : "Jigawa State"}
             ],
             "check": 2
+        },
+        {
+            "question": "Where is Abubakar Tafawa Balewa University?",
+            "opt": [
+                {"option" : "Jigawa State"},
+                {"option" : "Nassarawa State"},
+                {"option" : "F C T"},
+                {"option" : "Bauchi State"}
+            ],
+            "check": 4
         }
     ]
 }
